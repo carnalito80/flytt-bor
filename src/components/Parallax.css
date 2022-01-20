@@ -22,10 +22,10 @@ color: white;
 @media only screen and (max-device-width: 1366px) {
   .Parallax {
     background-attachment: scroll;
-    min-height: 1050px;
+    min-height: 1120px;
   }
   .Overlay {
-    height: 1050px;
+    height: 1120px;
   } 
 }
 .Parallax ul {
