@@ -191,7 +191,7 @@ I de fall betalning sker mot faktura görs en kreditprövning av det fakturering
 
 <h5>Vad avses med övriga städytor?</h5>
 <p>
-Exempel på övriga städytor som du vill ha städat eller få prisuppgift på är balkong, vind, förråd, garage och dylikt – det vill säga ytor som inte ingår i själva boytan.</p>
+Till övriga städytor hör sånt som du vill ha städat eller få prisuppgift på tex. balkong, vind, förråd, garage och dylikt – det vill säga ytor som inte ingår i själva boytan.</p>
 
 <h5>Vilken övrig info kan vara värt att fylla i?</h5>
 <p>Portkod, upplysningar om när överlåtelsen ska ske av huset / lägenheten, om eventuella möbler ska finnas kvar när vi städar, om vissa ytor inte behöver rengöras, till exempel.</p>
