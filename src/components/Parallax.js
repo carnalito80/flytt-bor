@@ -10,7 +10,7 @@ export default () => (
          <div className="container">
          <div className="Paratitle">
             <strong>Priser flyttstädning Borås</strong>
-            <p className="Paradesc"><strong>Från 1200 kr</strong><br></br>
+            <p className="Paradesc"><strong>Från 1600 kr</strong><br></br>
             Vi flyttstädar till konkurenskraftiga priser som dessutom kan bli ännu lägre om du är berättigad till att utnyttja RUT-avdraget vilket i praktiken ger dig 50 % lägre kostnad på flyttstädningen.
 
             Nedan hittar du en specificerad prislista som täcker vårt serviceutbud. Om du saknar några priser ber vi dig fylla i en offert så återkommer vi med prisuppgifter. </p>
