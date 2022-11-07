@@ -27,7 +27,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, offertknapp, 
 
     <section className="section">
       <div className="container introjk">
-        <h3 >Är du i behov av flyttstädning?</h3>
+        <h2>Är du i behov av flyttstädning i Borås?</h2>
        <p><span role="img" aria-label="checkmark">✔️</span> Snabb och noggrann städning.<br />
        <span role="img" aria-label="checkmark">✔️</span> Nöjd-Kund-Garanti! <br />
       <strong><span role="img" aria-label="checkmark">✔️</span> Enkelt att boka online eller via telefon.</strong>
@@ -128,7 +128,7 @@ En flytt är ofta tidskrävande och även energikrävande. Med vår erfarenhet o
   <div className="container">
     <div className="PostSection">
       <div className="PostSection--GridJK">
-      <div className="PostCard--HomeP PostCard--Image-Hide relative"><Image background title="Flyttstädning Boråss resultat" src="/images/bra-flyttstadning.jpg" alt="Flyttstädning Boråss resultat" /></div>
+      <div className="PostCard--HomeP PostCard--Image-Hide relative"><Image background title="Flyttstädning Boråss resultat" src="/images/basta-flyttstadning.webp" alt="Flyttstädning Boråss resultat" /></div>
       
       <div>
      <h3>Pålitlig och ansvarsfull flyttstädning</h3>
@@ -136,8 +136,8 @@ En flytt är ofta tidskrävande och även energikrävande. Med vår erfarenhet o
      <p>Därför är det värt att lägga en slant på att slippa den onödiga stressen och ge flyttstädning Borås fullt ansvar över städningen, ni kommer garanterat bli nöjda!</p>
 
      <p>Att flyttstäda tar lång tid och för att det nya ägarna av bostaden ska bli nöjda och glada, så är det bäst att ge över ansvaret till några som har lång erfarenhet för att bästa resultat ska uppnås.</p>
-    <p>Ring eller mejla till oss för information och/eller bokning. Vi svarar på ditt mail inom 24 timmar, under årets alla dagar.<br>
-    </br>Vi ser fram emot att besvara dina frågor via mail, <a href="mailto:info@xn--flyttstdning-bors-wqb2a.se/">info@flyttstädning-borås.se</a>, eller på telefon <a href="tel:073-6379908">073-63 799 08</a>  </p>
+      <p>Ring eller mejla till oss för information och/eller bokning. Vi svarar på ditt mail inom 24 timmar, under årets alla dagar.<br>
+      </br>Vi ser fram emot att besvara dina frågor via mail, <a href="mailto:info@xn--flyttstdning-bors-wqb2a.se/">info@flyttstädning-borås.se</a>, eller på telefon <a href="tel:073-6379908">073-63 799 08</a>. Kom ihåg att vi strävar efter att ha 100% nöjda kunder! </p>
      
       </div>
          
@@ -164,7 +164,7 @@ Om det det ska rengöras bakom tvättmaskin, diskmanskin eller torktumlare behö
 </p>
 <Link to="/vanliga-fragor">   <div className="Button">Mer om våran garanti</div></Link>
       </div>
-      <div className="PostCard--HomeP relative"><Image background title="Flyttstädning Borås städar din bostad" src="/images/tvattmaskin.jpg" alt="Flyttstädning Borås städar din bostad" /></div>
+      <div className="PostCard--HomeP relative"><Image background title="Flyttstädning Borås städar din bostad" src="/images/tvattmaskin.webp" alt="Flyttstädning Borås städar din bostad" /></div>
          
       </div>
     </div>
@@ -176,24 +176,24 @@ Om det det ska rengöras bakom tvättmaskin, diskmanskin eller torktumlare behö
 <div id="bokaoss" style={{marginBottom:'60px'}}></div>
 <section className="section">
 <div className="container" >
-<h2>Boka Oss På Flyttstädning Borås</h2>
+<h3>Boka Oss På Flyttstädning Borås</h3>
 <p>Fyll i formuläret nedan för att boka en flyttstädning. Alternativt ring <strong><a href="tel:073 637 99 08">073 637 99 08</a></strong>.</p>
 </div>
 <div className="container  Contact--Section1--Container">
 <Boka name="Flyttstädning Borås" />
 <div>
-<h5>Varför vill ni veta mitt personnummer?</h5>
+<h4>Varför vill ni veta mitt personnummer?</h4>
 <p>
 Ditt personnummer behövs om du bokar en flyttstädning med oss och vill utnyttja RUT-avdraget. Vi kan inte ansöka om utbetalning för din räkning från Skatteverket om vi inte har ditt personnummer. 
 <strong> Det är Skatteverket som kräver den uppgiften, inte vi.</strong><br />
 
 I de fall betalning sker mot faktura görs en kreditprövning av det faktureringsbolag som vi anlitar, och i detta fall krävs även personnummer.</p>
 
-<h5>Vad avses med övriga städytor?</h5>
+<h4>Vad avses med övriga städytor?</h4>
 <p>
-Till övriga städytor hör sånt som du vill ha städat eller få prisuppgift på tex. balkong, vind, förråd, garage och dylikt – det vill säga ytor som inte ingår i själva boytan.</p>
+Till övriga städytor hör sånt som du vill ha städat eller få prisuppgift på tex. balkong, vind, förråd, garage och dylikt, det vill säga ytor som inte ingår i själva boytan.</p>
 
-<h5>Vilken övrig info kan vara värt att fylla i?</h5>
+<h4>Vilken övrig info kan vara värt att fylla i?</h4>
 <p>Portkod, upplysningar om när överlåtelsen ska ske av huset / lägenheten, om eventuella möbler ska finnas kvar när vi städar, om vissa ytor inte behöver rengöras, till exempel.</p>
 
 </div>

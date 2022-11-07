@@ -45,7 +45,7 @@ export class Navigation extends Component {
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
-          <Link to="/" onClick={this.handleLinkClick}>
+          <Link aria-label="Länk till huvudsidan flyttstädning Borås" to="/" onClick={this.handleLinkClick}>
             <Logo />
           </Link>
           <div className="Nav--Links">
@@ -57,6 +57,7 @@ export class Navigation extends Component {
             <NavLink to="/vanliga-fragor/">Vanliga frågor</NavLink>
           </div>
           <button
+            aria-label="Huvudmeny flyttstädning"
             className="Button-blank Nav--MenuButton"
             onClick={this.handleMenuToggle}
           >

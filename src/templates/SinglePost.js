@@ -27,7 +27,7 @@ export const SinglePostTemplate = ({
         className="SinglePost--Pagination--Link prev"
         // className="SinglePost--BackButton" 
         to="/stadguiden/">
-         ← TILLBAKA TILL STÄDGUIDEN
+         ← TILLBAKA TILL BLOGGEN
         </Link>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
@@ -73,7 +73,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link prev"
                 to={prevPostURL}
               >
-                Föregående
+                Föregående Inlägg
               </Link>
             )}
             {nextPostURL && (
@@ -81,7 +81,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
               >
-                Nästa
+                Nästa Inlägg
               </Link>
             )}
           </div>
