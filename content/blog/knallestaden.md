@@ -9,7 +9,7 @@ categories:
   - category: Borås
 featuredImage: '../images/boras.webp'
 excerpt: >-
-I Borås finns mycket att uppleva för den konstintresserade som att besöka Borås Konstmuseum. Bara för någon vecka sedan invigdes utställningen Boråt Bright Art som är ljusbaserad konst som går att se på museet och även runt om i staden ända fram till januari/februari 2023.
+ I Borås finns mycket att uppleva för den konstintresserade som att besöka Borås Konstmuseum. Bara för någon vecka sedan invigdes utställningen Boråt Bright Art som är ljusbaserad konst som går att se på museet och även runt om i staden ända fram till januari/februari 2023.
 meta:
   description: I Borås finns mycket att uppleva för den konstintresserade som att besöka Borås Konstmuseum. Bara för någon vecka sedan invigdes utställningen Boråt Bright Art som är ljusbaserad konst som går att se på museet och även runt om i staden ända fram till januari/februari 2023.
   title: Knallestaden Borås

@@ -9,10 +9,10 @@ categories:
   - category: RUT
 featuredImage: '../images/rutavdrag.png'
 excerpt: >-
-RUT är en förkortning för rengöring, underhåll och tvätt. Det betyder att du kan få avdrag på skatten för hushållsnära tjänster som tex. flytt- och städhjälp, trädgårdsarbete och snöskottning.
+ RUT är en förkortning för rengöring, underhåll och tvätt. Det betyder att du kan få avdrag på skatten för hushållsnära tjänster som tex. flytt- och städhjälp, trädgårdsarbete och snöskottning.
 meta:
   description: RUT är en förkortning för rengöring, underhåll och tvätt. Det betyder att du kan få avdrag på skatten för hushållsnära tjänster som tex. flytt- och städhjälp, trädgårdsarbete och snöskottning.
-  title: Allt du behöver veta om RUT-avdrag för år 2022
+  title: Allt du behöver veta om RUT-avdrag för år 2022.
 ---
 
 ### RUT-avdrag 2022 ###
