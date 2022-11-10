@@ -14,6 +14,7 @@ meta:
   description: I Borås finns mycket att uppleva för den konstintresserade som att besöka Borås Konstmuseum. Bara för någon vecka sedan invigdes utställningen Boråt Bright Art som är ljusbaserad konst som går att se på museet och även runt om i staden ända fram till januari/februari 2023.
   title: Knallestaden Borås
 ---
+
 Smeknamnet knallestaden har Borås fått från alla de kringresande handelsmän som kom dit förr i tiden, de kallades ”knallarna”.  
 
 I Borås finns mycket att uppleva för den konstintresserade som att besöka Borås Konstmuseum. Bara för någon vecka sedan invigdes utställningen Boråt Bright Art som är ljusbaserad konst som går att se på museet och även runt om i staden ända fram till januari/februari 2023. Staden har en mängd olika konstverk på väggarna och varje år anordnas en street art-festival som kallas No Limit. Då bjuds konstnärer från hela världen in för att förvandla väggar, murar och torg med sina konstverk.  

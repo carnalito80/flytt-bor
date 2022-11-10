@@ -26,7 +26,7 @@ export const SinglePostTemplate = ({
         
         className="SinglePost--Pagination--Link prev"
         // className="SinglePost--BackButton" 
-        to="/stadguiden/">
+        to="/blog/">
          ← TILLBAKA TILL BLOGGEN
         </Link>
         <div className="SinglePost--Content relative">
