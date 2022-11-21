@@ -12,13 +12,13 @@ export default () => (
       <div className="container Contact--Section1--Container">
       <div className="Contact--Details">
       
-         <a className="Contact--Details--Item" href="/detta-ingar-i-flyttstadningen/">
-                <Disc />Detta ingår i flyttstädningen
+         <a className="Contact--Details--Item" href="/vad-ingar-i-flyttstadningen/">
+                <Disc />Vad ingår i flyttstädningen?
               </a>
         <a className="Contact--Details--Item" href="/kontakt/">
           <Disc />Kontakt
         </a>
-        <a className="Contact--Details--Item" href="/om-oss-pa-flyttstadning-goteborg/">
+        <a className="Contact--Details--Item" href="om-oss/">
           <Disc />Om oss på flyttstädning Borås
         </a>
         <a className="Contact--Details--Item" href="/vanliga-fragor/">
