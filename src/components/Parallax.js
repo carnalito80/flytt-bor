@@ -52,6 +52,7 @@ export default () => (
         Inglasad balkong: 400 kronor<br></br>
         Vind (i hyreshus): 400 kronor<br></br>
         Källare i hyreshus: 400 kronor<br></br>
+        Kort varsel under månadsskifte: 200 kronor<br></br>
         All städutrustning och allt material tillhandahålls självklart av oss på Flyttstädning Borås och ingår i priset.
         Vi debiterar inte för transportkostnader.
         </p>
