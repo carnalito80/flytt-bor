@@ -11,7 +11,7 @@ meta:
 ---
 
 #### Besiktning och garanti
-Vi har en garanti på **3 dagar** och åtgärdar eventuella fel som reklameras inom denna period. Vi åtar oss att åtgärda dem snarast och utan extra kostnad. Vår garanti omfattar inte fel som hittas efter det att garantitiden löpt ut. **Märk väl att vi endast kommer 1 gång och åtgärdar eventuella brister.** Därför är det bra om ni (eller hyresvärd / köpare) är med vid ombesiktningen och går igenom städningen med oss.
+Vi har en garanti på **14 dagar** och åtgärdar eventuella fel som reklameras inom denna period. Vi åtar oss att åtgärda dem snarast och utan extra kostnad. Vår garanti omfattar inte fel som hittas efter det att garantitiden löpt ut. Observera att vi endast kommer 1 gång och åtgärdar eventuella brister. Därför är det bra om ni (eller hyresvärd / köpare) är med vid ombesiktningen och går igenom städningen med oss.
 
 Garantin omfattar inte slitage, nötning eller missfärgningar som orsakats av kund eller tredje part. Detta räknas som försummat underhåll av bostaden och kan inte åläggas oss att åtgärda genom städning.
 
