@@ -23,7 +23,7 @@ Borås kallas även för textilstaden eftersom dom har en lång historia inom te
 
 Om du upplever Borås till fots gå och titta på konstverket ”Walking to Borås”, det är en skulptur utav Pinocchio som är nio meter hög och gjuten i brons. Se även resten av stan och testa på några utav dess restauranger.  
 
-![](https://xn--flyttstdning-bors-wqb2a.se/images/boras.webp)
+![](https://xn--flyttstdning-bors-wqb2a.se/images/boras2.webp)
 
 Så här i juletid är det julmarknad i Bruket i Wiared, helgen 19-20 november och 26-27 november kan du uppleva den. Här kan man hitta handstöpta ljus, hantverk i skinn och ull, julgodis, glögg och nybakat.  
 
